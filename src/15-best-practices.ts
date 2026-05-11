@@ -38,7 +38,7 @@ const config: Config = {
   author: "Piyush",
 };
 
-// ❌ DON'T: Use 'any' unless absolutely necessary in the code
+// ❌ DON'T: Use 'any' unless absolutely necessary
 // let data: any = fetchData(); // Bad
 
 // ❌ DON'T: Ignore TypeScript errors
