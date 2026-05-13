@@ -39,7 +39,7 @@ const config: Config = {
 };
 
 // ❌ DON'T: Use 'any' unless absolutely necessary
-// let data: any = fetchData(); // Bad
+// let data: any = fetchData(); // Bad Practise
 
 // ❌ DON'T: Ignore TypeScript errors
 // @ts-ignore should be very rare
